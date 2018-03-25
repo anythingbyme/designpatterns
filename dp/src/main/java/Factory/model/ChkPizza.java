@@ -2,17 +2,17 @@ package Factory.model;
 
 public class ChkPizza extends Pizza {
     @Override
-    void bake() {
+    public void bake() {
 
     }
 
     @Override
-    void cut() {
+    public void cut() {
 
     }
 
     @Override
-    void boxIt() {
+    public void boxIt() {
 
     }
 }
